@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-dmce71.salamcuan.shop/sitemap.xml
